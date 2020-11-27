@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\bin\Debug\Client2.exe.config
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\bin\Debug\Client2.exe
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\bin\Debug\Client2.pdb
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\obj\Debug\Client2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\obj\Debug\Client2.exe
+C:\Users\USER\Desktop\ClientSet\Client2\Client2\obj\Debug\Client2.pdb
